@@ -1,26 +1,61 @@
 ---
-name: 🚀 Feature request
-about: Suggest an idea for improving Hasura
-labels: "enhancement"
+name: 🐜 Bug report
+about: If something isn't working 🔧
+labels: "bug"
 ---
 
-### Is your proposal related to a problem?
+### Version Information
+
+Server Version:
+CLI Version (for CLI related issue):
+
+### Environment
+
+<!--Cloud/ OSS / EE -->
+
+### What is the expected behaviour?
 
 <!--
-  Provide a clear and concise description of what the problem is.
-  For example, "I'm always frustrated when..."
+  Provide a clear description of what you want to happen.
 -->
 
-### Describe the solution you'd like
+### Keywords
 
 <!--
-  Provide a clear and concise description of what you want to happen.
+  What keywords did you use when trying to find an existing bug report?
+  List them here so people in the future can find this one more easily.
 -->
 
-### Describe alternatives you've considered
+### What is the current behaviour?
+
+<!--
+  Provide a clear description of what is the current behaviour.
+-->
+
+### How to reproduce the issue?
+
+1.
+2.
+3.
+
+### Screenshots or Screencast
+
+<!--
+  Providing relevant Screenshots/ Screencasts would help us to debug the issue quickly.
+-->
+
+### Please provide any traces or logs that could help here.
 
 <!-- Provide your answer here. -->
 
-### If the feature is approved, would you be willing to submit a PR?
+### Any possible solutions?
+
+<!-- Provide your answer here. -->
+
+### Can you identify the location in the source code where the problem exists?
+
+<!-- Provide your answer here. -->
+
+### If the bug is confirmed, would you be willing to submit a PR?
 
 <!-- Provide your answer here. -->
